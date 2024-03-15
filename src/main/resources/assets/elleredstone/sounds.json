@@ -1,0 +1,14 @@
+{
+  "block.coloured_bulb.turn_on": {
+    "subtitle": "sounds.ellesredstone.block.coloured_bulb.turn_on",
+    "sounds": [
+      "ellesredstone:block.coloured_bulb.turn_on"
+    ]
+  },
+  "block.coloured_bulb.turn_off": {
+  "subtitle": "sounds.ellesredstone.block.coloured_bulb.turn_off",
+  "sounds": [
+    "ellesredstone:block.coloured_bulb.turn_off"
+  ]
+}
+}

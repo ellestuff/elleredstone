@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#R#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "c:dyes"
+    },
+    "R": {
+      "item": "minecraft:redstone_lamp"
+    }
+  },
+  "result": {
+    "item": "elleredstone:coloured_lamp",
+    "count": 1
+  }
+}

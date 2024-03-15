@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D#D",
+    "#C#",
+    "T#T"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:copper_block"
+    },
+    "R": {
+      "item": "elleredstone:coloured_lamp"
+    },
+    "D": {
+      "item": "minecraft:redstone_dust"
+    },
+    "T": {
+      "item": "minecraft:redstone_torch"
+    }
+  },
+  "result": {
+    "item": "elleredstone:coloured_bulb",
+    "count": 1
+  }
+}

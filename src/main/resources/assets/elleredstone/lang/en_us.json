@@ -1,0 +1,7 @@
+{
+  "block.elleredstone.coloured_lamp": "Coloured Lamp",
+  "block.elleredstone.coloured_bulb": "Coloured Bulb",
+
+  "sounds.ellesredstone.block.coloured_bulb.turn_on": "Coloured Bulb Turns On",
+  "sounds.ellesredstone.block.coloured_bulb.turn_off": "Coloured Bulb Turns Off"
+}

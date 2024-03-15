@@ -1,0 +1,71 @@
+{
+	"multipart": [
+		{
+			"apply": {
+				"variants": {
+					"power=0": {
+						"model": "elleredstone:block/coloured_lamp_black"
+					},
+					"power=1": {
+						"model": "elleredstone:block/coloured_lamp_dark_grey"
+					},
+					"power=2": {
+						"model": "elleredstone:block/coloured_lamp_grey"
+					},
+					"power=3": {
+						"model": "elleredstone:block/coloured_lamp_white"
+					},
+					"power=4": {
+						"model": "elleredstone:block/coloured_lamp_brown"
+					},
+					"power=5": {
+						"model": "elleredstone:block/coloured_lamp_red"
+					},
+					"power=6": {
+						"model": "elleredstone:block/coloured_lamp_orange"
+					},
+					"power=7": {
+						"model": "elleredstone:block/coloured_lamp_yellow"
+					},
+					"power=8": {
+						"model": "elleredstone:block/coloured_lamp_lime"
+					},
+					"power=9": {
+						"model": "elleredstone:block/coloured_lamp_green"
+					},
+					"power=10": {
+						"model": "elleredstone:block/coloured_lamp_cyan"
+					},
+					"power=11": {
+						"model": "elleredstone:block/coloured_lamp_light_blue"
+					},
+					"power=12": {
+						"model": "elleredstone:block/coloured_lamp_blue"
+					},
+					"power=13": {
+						"model": "elleredstone:block/coloured_lamp_purple"
+					},
+					"power=14": {
+						"model": "elleredstone:block/coloured_lamp_magenta"
+					},
+					"power=15": {
+						"model": "elleredstone:block/coloured_lamp_pink"
+					}
+				}
+			}
+		},
+		{
+			"apply": {
+				"model": "elleredstone:block/coloured_bulb"
+			}
+		},
+		{
+			"apply": {
+				"model": "elleredstone:block/coloured_bulb_powered"
+			},
+			"when": {
+				"powered": "true"
+			}
+		}
+	]
+}

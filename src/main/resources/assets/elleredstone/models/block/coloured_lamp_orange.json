@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "elleredstone:block/coloured_lamp_orange"
+  }
+}
